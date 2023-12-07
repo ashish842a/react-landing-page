@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.ce49feaf.css",
+    "main.js": "/react-landing-page/static/js/main.4df98b13.js",
+    "static/js/787.e0ee1374.chunk.js": "/react-landing-page/static/js/787.e0ee1374.chunk.js",
+    "index.html": "/react-landing-page/index.html",
+    "main.ce49feaf.css.map": "/react-landing-page/static/css/main.ce49feaf.css.map",
+    "main.4df98b13.js.map": "/react-landing-page/static/js/main.4df98b13.js.map",
+    "787.e0ee1374.chunk.js.map": "/react-landing-page/static/js/787.e0ee1374.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce49feaf.css",
+    "static/js/main.4df98b13.js"
+  ]
+}
