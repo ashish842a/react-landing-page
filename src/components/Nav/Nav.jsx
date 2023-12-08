@@ -11,7 +11,7 @@ function Nav() {
         <NavIcon icon={<i className="ri-instagram-line"></i>}/>
         <NavIcon icon={<i className="ri-snapchat-line"></i>}/>
         <NavIcon icon={<i className="ri-google-line"></i>}/>
-        <NavIcon icon={<i class="ri-linkedin-box-fill"></i>}/>
+        <NavIcon icon={<i className="ri-linkedin-box-fill"></i>}/>
       
     </div>
       </div>
