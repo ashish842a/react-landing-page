@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Adds(props) {
+function AddData(props) {
   return (
   <div className="container mt-2 ">
     <div className="card bg-dark text-white border">
@@ -15,4 +15,4 @@ function Adds(props) {
   )
 }
 
-export default Adds
+export default AddData;
