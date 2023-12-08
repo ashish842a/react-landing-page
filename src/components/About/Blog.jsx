@@ -2,7 +2,7 @@ import React from 'react';
 import Head from './Head';
 
 function Blog(props) {
-  console.log("props", props);
+//   console.log("props", props);
   return (
     <div className="container border mt-4 box-shadow">
       <Head heading={props.heading} subHead={props.subHead} />
